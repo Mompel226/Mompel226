@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>Everything here is free to use, change and pass on.<br>
+  <em>Free for any school to use and change.<br>
   Most of it is running in my own classroom first.</em>
 </p>
 
@@ -96,6 +96,20 @@ run entirely on your own machine — no account, no server, nothing sent anywher
 | Repository | What it is |
 |---|---|
 | [metaGVis](https://github.com/Mompel226/metaGVis) | an R package for microbial ecology — QC and publication-ready plots, working straight from MOTHUR, DADA2, Kraken2, MetaPhlAn3 and HUMAnN3 output |
+
+## Licence
+
+Two licences, because there are two kinds of work here.
+
+| What | Licence |
+|---|---|
+| **The software** | [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html) — use it, change it, run it. Change it and let others use it, *including over a network*, and you publish your source under the same terms. |
+| **The teaching material** — questions, explanations, diagrams | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — free for teaching, not for selling, and the credit stays. |
+
+Third-party images keep their own licences; each repository credits them.
+
+I hold the copyright, so other terms are possible. **If you want to use any of this commercially, ask
+me** — [dmompelriera@nlcsjeju.kr](mailto:dmompelriera@nlcsjeju.kr).
 
 <!---
 Mompel226/Mompel226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
