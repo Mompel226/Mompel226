@@ -92,7 +92,7 @@ pages for Key Stage 3 and IB. No sign-up, nothing to install.
 | [protein-enzyme-sim](https://github.com/Mompel226/protein-enzyme-sim) | B1.2 and C1.1 — build polypeptides, run enzymes, break them with heat and pH |
 | [A22-microscopy-skills-pract](https://github.com/Mompel226/A22-microscopy-skills-pract) | IB Biology practical: microscopy skills (A2.2.2) — calibrate a graticule, measure cells, scale bars and the rules for a drawing |
 | [B11-starch-calibration-curve-pract](https://github.com/Mompel226/B11-starch-calibration-curve-pract) | IB Biology practical: starch calibration curve (B1.1) — the whole practical, including why the standard starch protocol misbehaves |
-| [rocky-shore-fieldwork-pract](https://github.com/Mompel226/rocky-shore-fieldwork-pract) | IB Biology practical: rocky shore fieldwork (B4.1) — transects and quadrats on a virtual shore, chi-squared and correlation |
+| [B41-rocky-shore-fieldwork-pract](https://github.com/Mompel226/B41-rocky-shore-fieldwork-pract) | IB Biology practical: rocky shore fieldwork (B4.1) — transects and quadrats on a virtual shore, chi-squared and correlation |
 
 ## For teachers
 
