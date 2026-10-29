@@ -50,11 +50,12 @@ If something here is nearly right for your school, fork it and change it. That i
 ## For students
 
 Interactive revision for Cambridge IGCSE Biology 0610 — four shelves, and behind each, labs where
-the questions mark themselves. No sign-up, nothing to install.
+the questions mark themselves. Beside it: writing exam answers and lab reports, R in the browser, and
+pages for Key Stage 3 and IB. No sign-up, nothing to install.
 
 |  | Start here |
 |---|---|
-| **At NLCS Jeju** | **[nlcsbiology.com](https://nlcsbiology.com)** — the revision hub, plus the school's own co-curricular activities, societies, Bryant and community enterprises. Sign in with your school account and it also carries your assessment record. |
+| **At NLCS Jeju** | **[nlcsbiology.com](https://nlcsbiology.com)** — the revision hub, Bio English Lab and Write-Up Lab, plus the school's own co-curricular activities, societies, the Diving Bryant and community enterprises. Sign in with your school account and it also carries your assessment record. |
 | **Any other school** | **[igcse-biology-hub](https://github.com/Mompel226/igcse-biology-hub)** — the same revision hub with the NLCS-only parts taken out. Yours to host, yours to change. |
 
 ### The revision hub and its labs
@@ -63,16 +64,35 @@ the questions mark themselves. No sign-up, nothing to install.
 |---|---|
 | [biology-hub](https://github.com/Mompel226/biology-hub) | the hub itself — the four shelves and the way in |
 | [classification-lab](https://github.com/Mompel226/classification-lab) | Topic 1 — characteristics and classification of living organisms |
+| [cells-lab](https://github.com/Mompel226/cells-lab) | Topic 2 — organisation of the organism, and the microscope: drawing and measuring cells |
 | [digestion-lab](https://github.com/Mompel226/digestion-lab) | Topic 7 — human nutrition |
+| [circulation-lab](https://github.com/Mompel226/circulation-lab) | Topic 9 — transport in animals |
 | [plants-lab](https://github.com/Mompel226/plants-lab) | Topics 6, 8, 14.5, 16.3 and 18.2 — one plant, seed to fruit |
-| [human-body-hub](https://github.com/Mompel226/human-body-hub) · [plants-hub](https://github.com/Mompel226/plants-hub) · [life-on-earth-hub](https://github.com/Mompel226/life-on-earth-hub) | the shelves themselves — a map you point at |
+| [foundations-hub](https://github.com/Mompel226/foundations-hub) · [human-body-hub](https://github.com/Mompel226/human-body-hub) · [plants-hub](https://github.com/Mompel226/plants-hub) · [life-on-earth-hub](https://github.com/Mompel226/life-on-earth-hub) | the shelves themselves — a map you point at |
+
+### Writing and data
+
+| Repository | What it is |
+|---|---|
+| [bio-english-lab](https://github.com/Mompel226/bio-english-lab) | writing exam answers that score — describe, explain, plan — and the key words of every topic |
+| [write-up-lab](https://github.com/Mompel226/write-up-lab) | lab reports, from IGCSE to the IB Internal Assessment and Extended Essay |
+| [learn-r](https://github.com/Mompel226/learn-r) | real R, running in the browser with nothing to install — three courses: Year 8, IB statistics and IB B1.1 starch curves |
+
+### Key Stage 3
+
+| Repository | What it is |
+|---|---|
+| [ks3-separating-mixtures-pract](https://github.com/Mompel226/ks3-separating-mixtures-pract) | Y7 Chemistry practical: separating mixtures — eight separation methods, run on a virtual lab bench |
+| [ks3-y7-chemistry-revision](https://github.com/Mompel226/ks3-y7-chemistry-revision) | Y7 Chemistry revision: states of matter, atoms and mixtures — notes, pictures to explore and checks, with Korean and Chinese for every key word |
 
 ### IB
 
 | Repository | What it is |
 |---|---|
 | [protein-enzyme-sim](https://github.com/Mompel226/protein-enzyme-sim) | B1.2 and C1.1 — build polypeptides, run enzymes, break them with heat and pH |
-| [B11-starch-calibration-curve-pract](https://github.com/Mompel226/B11-starch-calibration-curve-pract) | B1.1 — the whole practical, including why the standard starch protocol misbehaves |
+| [A22-microscopy-skills-pract](https://github.com/Mompel226/A22-microscopy-skills-pract) | IB Biology practical: microscopy skills (A2.2.2) — calibrate a graticule, measure cells, scale bars and the rules for a drawing |
+| [B11-starch-calibration-curve-pract](https://github.com/Mompel226/B11-starch-calibration-curve-pract) | IB Biology practical: starch calibration curve (B1.1) — the whole practical, including why the standard starch protocol misbehaves |
+| [rocky-shore-fieldwork-pract](https://github.com/Mompel226/rocky-shore-fieldwork-pract) | IB Biology practical: rocky shore fieldwork (B4.1) — transects and quadrats on a virtual shore, chi-squared and correlation |
 
 ## For teachers
 
