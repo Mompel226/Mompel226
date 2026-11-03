@@ -67,6 +67,7 @@ pages for Key Stage 3 and IB. No sign-up, nothing to install.
 | [cells-lab](https://github.com/Mompel226/cells-lab) | Topic 2 — organisation of the organism, and the microscope: drawing and measuring cells |
 | [digestion-lab](https://github.com/Mompel226/digestion-lab) | Topic 7 — human nutrition |
 | [circulation-lab](https://github.com/Mompel226/circulation-lab) | Topic 9 — transport in animals |
+| [immunity-lab](https://github.com/Mompel226/immunity-lab) | Topic 10 — diseases and immunity: pathogens, the body's defences, antibodies, vaccination, cholera |
 | [plants-lab](https://github.com/Mompel226/plants-lab) | Topics 6, 8, 14.5, 16.3 and 18.2 — one plant, seed to fruit |
 | [foundations-hub](https://github.com/Mompel226/foundations-hub) · [human-body-hub](https://github.com/Mompel226/human-body-hub) · [plants-hub](https://github.com/Mompel226/plants-hub) · [life-on-earth-hub](https://github.com/Mompel226/life-on-earth-hub) | the shelves themselves — a map you point at |
 
