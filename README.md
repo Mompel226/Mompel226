@@ -85,6 +85,7 @@ pages for Key Stage 3 and IB. No sign-up, nothing to install.
 |---|---|
 | [ks3-separating-mixtures-pract](https://github.com/Mompel226/ks3-separating-mixtures-pract) | Y7 Chemistry practical: separating mixtures — eight separation methods, run on a virtual lab bench |
 | [ks3-y7-chemistry-revision](https://github.com/Mompel226/ks3-y7-chemistry-revision) | Y7 Chemistry revision: states of matter, atoms and mixtures — notes, pictures to explore and checks, with Korean and Chinese for every key word |
+| [ks3-y7-cell-organelles](https://github.com/Mompel226/ks3-y7-cell-organelles) | Y7 Biology practical: cell structures and organelles — a 3D game inside a salivary gland cell: explore its organelles, make amylase and release it |
 
 ### IB
 
