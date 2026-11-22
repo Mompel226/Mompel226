@@ -66,6 +66,7 @@ pages for Key Stage 3 and IB. No sign-up, nothing to install.
 | [classification-lab](https://github.com/Mompel226/classification-lab) | Topic 1 — characteristics and classification of living organisms |
 | [cells-lab](https://github.com/Mompel226/cells-lab) | Topic 2 — organisation of the organism, and the microscope: drawing and measuring cells |
 | [membrane-lab](https://github.com/Mompel226/membrane-lab) | Topic 3 — movement into and out of cells: diffusion, osmosis and active transport |
+| [molecules-lab](https://github.com/Mompel226/molecules-lab) | Topic 4 — biological molecules: the elements, carbohydrates, fats and oils, proteins, DNA and a working food test bench |
 | [digestion-lab](https://github.com/Mompel226/digestion-lab) | Topic 7 — human nutrition |
 | [circulation-lab](https://github.com/Mompel226/circulation-lab) | Topic 9 — transport in animals |
 | [immunity-lab](https://github.com/Mompel226/immunity-lab) | Topic 10 — diseases and immunity: pathogens, the body's defences, antibodies, vaccination, cholera |
