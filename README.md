@@ -74,6 +74,7 @@ pages for Key Stage 3 and IB. No sign-up, nothing to install.
 | [gas-exchange-lab](https://github.com/Mompel226/gas-exchange-lab) | Topic 11 — gas exchange in humans: the breathing system, alveoli, inspired and expired air, ventilation on a real 3D chest |
 | [respiration-lab](https://github.com/Mompel226/respiration-lab) | Topic 12 — respiration: the uses of energy, aerobic and anaerobic respiration, yeast and temperature, the oxygen debt on a real body |
 | [inheritance-lab](https://github.com/Mompel226/inheritance-lab) | Topic 17 — inheritance: chromosomes and genes, mitosis and meiosis, Punnett squares, codominance, sex linkage |
+| [variation-lab](https://github.com/Mompel226/variation-lab) | Topic 18 — variation and selection: continuous and discontinuous variation, mutation, adaptive features, natural selection, antibiotic resistance, selective breeding, and plotting variation in R |
 | [plants-lab](https://github.com/Mompel226/plants-lab) | Topics 6, 8, 14.5, 16.3 and 18.2 — one plant, seed to fruit |
 | [foundations-hub](https://github.com/Mompel226/foundations-hub) · [human-body-hub](https://github.com/Mompel226/human-body-hub) · [plants-hub](https://github.com/Mompel226/plants-hub) · [life-on-earth-hub](https://github.com/Mompel226/life-on-earth-hub) | the shelves themselves — a map you point at |
 
